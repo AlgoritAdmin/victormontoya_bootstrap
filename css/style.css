@@ -11,6 +11,13 @@ footer img{
 .space{
     padding: 40px 0 40px;
 }
+.space1{
+    margin: 100px 0 100px;
+    padding: 0 50px 0 50px;
+}
+.space2{
+    padding: 0 50px 0 50px;
+}
 a {
     color: white;
 }
@@ -22,5 +29,11 @@ a {
     .space{
         padding: 20px 0 20px;
     }
-    
+    .space1{
+        margin: 40px 0 40px;
+        padding: 0 30px 0 30px;
+    }
+    .space2{
+        padding: 0 30px 0 30px;
+    }
 }
