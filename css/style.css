@@ -29,6 +29,9 @@ p{
 .margin{
     margin-bottom: 50px;
 }
+.margin--galeria{
+    margin-bottom: 50px;
+}
 @media only screen and (max-width: 1000px) {
     .--ocultar{
         display: none;
@@ -42,5 +45,8 @@ p{
     }
     .space2{
         padding: 0 30px 0 30px;
+    }
+    .margin--galeria{
+        margin-bottom: 10px;
     }
 }
