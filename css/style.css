@@ -26,6 +26,9 @@ a {
 p{
     text-align: justify;
 }
+.margin{
+    margin-bottom: 50px;
+}
 @media only screen and (max-width: 1000px) {
     .--ocultar{
         display: none;
