@@ -20,6 +20,9 @@ footer img{
 .space2{
     padding: 0 50px 0 50px;
 }
+.space3{
+    padding: 15px 0 15px;
+}
 a {
     color: white;
 }
@@ -35,6 +38,9 @@ p{
 iframe{
     height: 500px;
     width: 100%;
+}
+.padin-letf{
+    padding-left: 50px;
 }
 @media only screen and (max-width: 1000px) {
     .--ocultar{
@@ -52,5 +58,8 @@ iframe{
     }
     .margin--galeria{
         margin-bottom: 10px;
+    }
+    .padin-letf{
+        padding-left: 0px;
     }
 }
