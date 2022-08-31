@@ -1,3 +1,6 @@
+.footer{
+    margin-top: 60px;
+}
 footer .nav-link{
     color: white;
 }
@@ -12,7 +15,6 @@ footer img{
     padding: 40px 0 40px;
 }
 .space1{
-    margin: 100px 0 100px;
     padding: 50px 50px 0 50px;
 }
 .space2{
@@ -21,7 +23,9 @@ footer img{
 a {
     color: white;
 }
-
+p{
+    text-align: justify;
+}
 @media only screen and (max-width: 1000px) {
     .--ocultar{
         display: none;
