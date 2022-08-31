@@ -32,6 +32,10 @@ p{
 .margin--galeria{
     margin-bottom: 50px;
 }
+iframe{
+    height: 500px;
+    width: 100%;
+}
 @media only screen and (max-width: 1000px) {
     .--ocultar{
         display: none;
