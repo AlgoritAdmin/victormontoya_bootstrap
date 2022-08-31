@@ -1,0 +1,26 @@
+footer .nav-link{
+    color: white;
+}
+footer .nav-link:hover{
+    color: rgb(175, 175, 175);
+}
+footer img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.space{
+    padding: 40px 0 40px;
+}
+a {
+    color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+    .--ocultar{
+        display: none;
+    }
+    .space{
+        padding: 20px 0 20px;
+    }
+    
+}
